@@ -1,18 +1,22 @@
 <template>
     <div>
-        <navbar />
+        <Head>
+            <Title>Adopting Bitcoin 2023</Title>
+        </Head>
+        <navbar/>
         <hero class="pt-52"/>
         <intro/>
-<!--        <location_carousel/>-->
+        <!--        <location_carousel/>-->
         <location id="venue"/>
-<!--        <schedule/>-->
-        <img loading="lazy" src="/images/speakers_img.gif" alt="" class="w-full h-auto"/>
+
+        <!--        <schedule/>-->
+        <img alt="" class="w-full h-auto" loading="lazy" src="/images/speakers_img.gif"/>
         <speakers/>
         <tickets id="ticket"/>
-        <sponsors />
+        <sponsors/>
         <sponsors_call/>
-        <people />
-        <footer_component />
+        <people/>
+        <footer_component/>
 
     </div>
 </template>
@@ -40,5 +44,4 @@ export default {
         Sponsors, Tickets, Sponsors_call, Speakers, Schedule, Intro, Hero, Location, Location_carousel
     }
 }
-
 </script>

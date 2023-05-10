@@ -3,7 +3,7 @@
 
       <StraightBanner topImage="/images/section-heading--people.svg" />
 
-      <div class="container pt-36">
+      <div class="container pt-5">
           <div v-for="team in teamData" class="">
               <div class="cursor-pointer w-full border-b py-5 grid grid-cols-2 md:grid-cols-4 px-5 hover:text-black hover:bg-adoptingYellow" @click="uncollapsed[team.name] = !uncollapsed[team.name]">
                   <a >{{ team.name }}</a>
@@ -38,6 +38,7 @@
 <style scoped>
 .component {
     background-color: #252525;
+    @apply py-0;
 }
 </style>
 <script setup>
@@ -47,7 +48,7 @@ import {FontAwesomeIcon} from "@fortawesome/vue-fontawesome";
 
 let uncollapsed = ref({})
 
-const { data } = await useAsyncData('team', () => queryContent('/team').only(['_path', 'title', 'team', 'function', 'img', 'url']).find())
+const { data } = await useAsyncData('team'+process.env.CACHE_KEY, () => queryContent('/team').find())
 
 const teamData = computed(() => {
     let teamData = _groupBy(data.value, data => data['team'])
