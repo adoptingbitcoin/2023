@@ -1,7 +1,7 @@
 ---
 title: Noor El Bawab
 team: Team
-function: bitcoinarabic.org 
+function: Blink / bitcoinarabic.org 
 img: noorelbawab.jpg
 ---
 
