@@ -1,7 +1,7 @@
 ---
 title: Nicolas Burtey
 team: Team
-function: Galoy / Co-host
+function: Galoy
 img: nicolasburtey.jpg
 ---
 

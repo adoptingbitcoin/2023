@@ -1,6 +1,6 @@
 ---
 title: Chris Hunter
-team: Team
+team: Advisors
 function: 
 img: chrishunter.jpg
 ---

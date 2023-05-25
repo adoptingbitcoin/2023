@@ -1,7 +1,7 @@
 ---
 title: Kemal Flaco
 team: Team
-function: ideasarelikeflames
+function: Galoy / Yirmibir
 img: kemalflaco.jpg
 ---
 
