@@ -1,5 +1,5 @@
 <template>
-    <div>
+    <div class="">
         <Head>
             <Title>Adopting Bitcoin 2023</Title>
         </Head>
