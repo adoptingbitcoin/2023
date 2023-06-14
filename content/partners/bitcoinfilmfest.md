@@ -1,5 +1,5 @@
 ---
-title: Bitcoin Film Fest
+title: Bitcoin FilmFest
 url: https://bitcoinfilmfest.com/
 img: bff.png
 ---
