@@ -1,7 +1,7 @@
 ---
 title: "Pedro"
 company: Anatomy of Bitcoin
-img: pedro.png
+img: pedro.jpg
 ---
 
 Designer working on bitcoin stuff.
