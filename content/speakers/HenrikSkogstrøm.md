@@ -4,4 +4,4 @@ company: LN Capital
 img: henrik.jpg
 ---
 
-Alexandre Bussutil is the head of business development at bolt.observer, a bitcoin-native startup providing monitoring and management tools for lightning node operators. He is also a mentor and visiting professor at IE Business School where he lectures on Bitcoin and digital assets. Before this, Alexandre worked with Fulgur Ventures to conduct research on hyperbitcoinization.
+I'm the founder of LN_Capital and have been in the lightning industry since January 2019. Over the last 5 years I have seen tremendous growth and evolution in the network. I'm passionate about the lightning industry and through LN Capital's Twitter account I try to share and give back to the community by posting threads about various topics in the Lightning industry. I'm also the founder of the Scaling Lightning initiative (open source project).  Ex-CTO Arcario / K33Research.
