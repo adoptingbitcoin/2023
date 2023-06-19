@@ -23,7 +23,7 @@
       
       <div class="tickets mt-5">
           <a href="https://pretix.eu/galoy/ab23/" target="_blank">
-              <TicketBanner top-image="/images/assets/tickets/tickets-row-1_june.svg" bottom-image="/images/assets/tickets/tickets-row-2_june.svg" class="w-full"/>
+              <TicketBanner top-image="/images/assets/tickets/tickets-row-1_june.svg" bottom-image="/images/assets/tickets/tickets-row-2_june2.svg" class="w-full"/>
           </a>
 
       </div>
