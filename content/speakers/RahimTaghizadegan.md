@@ -1,5 +1,5 @@
 ---
-title: "Rahim Taghezadegan"
+title: "Rahim Taghizadegan"
 company: Austrian Economist
 img: rahim.png
 ---
