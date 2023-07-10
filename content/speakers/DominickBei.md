@@ -1,7 +1,7 @@
 ---
 title: "Dominick Bei"
 company: Proof of Workforce
-img: bei.png
+img: bei1.png
 ---
 
-Born and Raised in San Francisco CA, Dominick is a 14 years active Firefighter for Santa Monica Firefighters, 10 years as elected officer of Firefighters Union, with 4 years as Union President. He's authored various Bitcoin articles and is the host of Nakamoto Gauntlet, a Bitcoin show on Youtube & Co-Host of Bridge to Bridge Podcast, a Bay Area Podcast. Dom is also the founder of Proof of Workforce, a non-profit mission to orange pill workers all over the world.
+Dom is a 14 year Firefighter from California with over 10 years as an elected officer of the Firefighters Union. Initially a passive Bitcoin participant and student since 2017, a fateful rescue of a Bitcoin analyst in 2022 started Dom on a new mission: to orange pill unions and worker organizations and assist with long term adoption. Building a model he called "Proof of Workforce" Dom collaborated with the Santa Monica Firefighters who became the first union to collectively self-custody Bitcoin. He now hosts a new show, "The Nakamoto Gauntlet," produced by Swan Bitcoin with co-hosts Raphael Zigury, Greg Foss and Joe Carlasare. Dom has written several Bitcoin articles with his latest article published in Bitcoin Magazine "How Bitcoin can save California's $440 Billion Pension Fund"
