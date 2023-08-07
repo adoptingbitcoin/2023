@@ -1,5 +1,5 @@
 ---
-url: https://www.thesurferkids.com/
-description: The Surfer Kids
-img: item2.jpg
+url: https://adoptingbitcoin.org/capetown-2024/
+description: Adopting Bitcoin Cape Town 2024
+img: item2.png
 ---
