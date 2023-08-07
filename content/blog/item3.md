@@ -1,5 +1,5 @@
 ---
-url: https://twitter.com/BitcoinEkasi
-description: Bitcoin Ekasi
-img: item3.png
+url: https://miprimerbitcoin.io/
+description: Mi Primer Bitcoin
+img: miprimer3.png
 ---
