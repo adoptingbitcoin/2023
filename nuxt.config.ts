@@ -6,6 +6,7 @@ export default defineNuxtConfig({
         '@nuxtjs/google-fonts',
         '@nuxt/image-edge',
         '@nuxt/content',
+        'nuxt-swiper'
     ],
 
     features: {
@@ -24,7 +25,7 @@ export default defineNuxtConfig({
             src: '@/plugins/aos.js', mode: 'client'
         }
     ],
-    vue : {
+    vue: {
         config: {
             productionTip: false,
             devtools: true
@@ -38,6 +39,13 @@ export default defineNuxtConfig({
         exposeLevel: 2,
         injectPosition: 'first',
         viewer: true,
+    },
+    swiper: {
+        // Swiper options
+        //----------------------
+        // prefix: 'Swiper',
+        // styleLang: 'css',
+        modules: ['navigation', 'pagination'], // all modules are imported by default
     },
 
     googleFonts: {
@@ -57,17 +65,22 @@ export default defineNuxtConfig({
         head: {
             title: 'Adopting Bitcoin 2023',
             meta: [
-                { charset: 'utf-8' },
-                { name: 'viewport', content: 'width=device-width, initial-scale=1' },
-                { name: 'google', content: 'notranslate' },
-                { "http-equiv": 'Content-Language', content: 'en' },
+                {charset: 'utf-8'},
+                {name: 'viewport', content: 'width=device-width, initial-scale=1'},
+                {name: 'google', content: 'notranslate'},
+                {"http-equiv": 'Content-Language', content: 'en'},
             ],
             link: [
-                { rel: 'icon', type: 'image/png', sizes: '16x16', href: process.env.DIR+'favicon/favicon-16x16.png' },
-                { rel: 'icon', type: 'image/png', sizes: '32x32', href: process.env.DIR+'favicon/favicon-32x32.png' },
-                { rel: 'apple-touch-icon', type: 'image/png', sizes: '180x180', href: process.env.DIR+'/favicon/apple-touch-icon.png' },
-                { rel: 'mask-icon', color:'#000000', href: process.env.DIR+'favicon/safari-pinned-tab.svg' },
-                { rel: 'manifest', href: process.env.DIR+'favicon/site.webmanifest' },
+                {rel: 'icon', type: 'image/png', sizes: '16x16', href: process.env.DIR + 'favicon/favicon-16x16.png'},
+                {rel: 'icon', type: 'image/png', sizes: '32x32', href: process.env.DIR + 'favicon/favicon-32x32.png'},
+                {
+                    rel: 'apple-touch-icon',
+                    type: 'image/png',
+                    sizes: '180x180',
+                    href: process.env.DIR + '/favicon/apple-touch-icon.png'
+                },
+                {rel: 'mask-icon', color: '#000000', href: process.env.DIR + 'favicon/safari-pinned-tab.svg'},
+                {rel: 'manifest', href: process.env.DIR + 'favicon/site.webmanifest'},
             ],
             htmlAttrs: {
                 lang: 'en'
