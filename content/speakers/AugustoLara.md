@@ -1,5 +1,5 @@
 ---
-title: "Amanda"
+title: "Augusto Lara"
 company: Smart Vaults
 img: augusto.jpg
 ---
