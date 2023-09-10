@@ -7,14 +7,14 @@
         <hero class="pt-52"/>
         <intro/>
         <!--        <location_carousel/>-->
+        <sponsors/>
+        <sponsors_call/>
         <location id="venue"/>
 
         <!--        <schedule/>-->
         <img alt="" class="w-full h-auto" loading="lazy" src="/images/speakers_img.gif"/>
         <speakers/>
         <tickets id="ticket"/>
-        <sponsors/>
-        <sponsors_call/>
         <people/>
         <footer_component/>
 
