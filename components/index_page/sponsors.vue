@@ -5,12 +5,14 @@
         <StraightBanner top-image="/images/section-heading--sponsors.svg"/>
 
         <div class="container pb-12">
-            <div class="flex flex-1 justify-around items-center">
-                <div class="sponsor px-5 " v-for="sponsor in data">
-                    <a :href="sponsor.url" target="_blank" class="h-5">
-                        <nuxt-img loading="lazy" :src="'/images/sponsors/' + sponsor.img" class="sponsor-img"
+            <div class="md:flex flex-0 mb-5 justify-around items-center"
+                 v-for="sponsors in _groupBy(data, 'row')">
+                <div class="sponsor px-5" v-for="sponsor in sponsors">
+                    <nuxt-link :href="sponsor._path" class="h-5">
+                        <nuxt-img loading="lazy" :src="'/images/sponsors/' + sponsor.img" class="sponsor-img m-auto"
                                   :alt="sponsor.title"/>
-                    </a>
+                        <p class="w-full text-center font-thin text-xs"><span>{{ sponsor.caption }}</span></p>
+                    </nuxt-link>
                 </div>
             </div>
         </div>
@@ -53,8 +55,13 @@
 
 
 <script setup>
+import _groupBy from "lodash/groupBy";
+import "~/components/index_page/sponsors.vue";
+
 const data = await useAsyncData('sponsors' + process.env.CACHE_KEY, () => queryContent('/sponsors').find()).data
 const partners = await useAsyncData('partners' + process.env.CACHE_KEY, () => queryContent('/partners').find()).data
+
+console.log()
 </script>
 
 <script>
