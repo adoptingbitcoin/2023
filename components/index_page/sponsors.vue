@@ -8,11 +8,11 @@
             <div class="md:flex flex-0 mb-5 justify-around items-center"
                  v-for="sponsors in _groupBy(data, 'row')">
                 <div class="sponsor px-5" v-for="sponsor in sponsors">
-                    <a :href="sponsor.url" target="_blank" class="h-5">
+                    <nuxt-link :href="sponsor._path" class="h-5">
                         <nuxt-img loading="lazy" :src="'/images/sponsors/' + sponsor.img" class="sponsor-img m-auto"
                                   :alt="sponsor.title"/>
-                        <p class="w-full text-center font-thin"><span>{{ sponsor.caption }}</span></p>
-                    </a>
+                        <p class="w-full text-center font-thin text-xs"><span>{{ sponsor.caption }}</span></p>
+                    </nuxt-link>
                 </div>
             </div>
         </div>
