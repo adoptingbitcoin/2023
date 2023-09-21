@@ -1,6 +1,6 @@
 ---
 title: "Fran Stajnar"
-company: Bravenewcoin
+company: Volcan Capital
 img: fran.jpg
 ---
 
