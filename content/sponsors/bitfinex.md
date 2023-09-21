@@ -6,31 +6,31 @@ row: 1
 caption: Delivering Financial Freedom
 ---
 
-[Bitfinex](https://bitfinex.com) was one of the first cryptocurrency exchanges, founded in 2012 to deliver the finest trading experience for retail, professional and institutional customers.   
+[Bitfinex](https://bitfinex.com) was one of the first cryptocurrency exchanges, founded in 2012 to deliver the finest trading experience for retail, professional and institutional customers.   <br>
 
 
-Our focus has always been on providing the best standards of security and high throughput in a safe and low latency environment so that traders can access our highly liquid markets. 
+Our focus has always been on providing the best standards of security and high throughput in a safe and low latency environment so that traders can access our highly liquid markets. <br>
 
 
-Over the last decade, Bitfinex has worked relentlessly to educate customers about the benefits and attributes of Bitcoin and the blockchain while providing a technically superior environment to buy, hold and sell tokens.
+Over the last decade, Bitfinex has worked relentlessly to educate customers about the benefits and attributes of Bitcoin and the blockchain while providing a technically superior environment to buy, hold and sell tokens.<br>
 
 
-Our leading-edge solutions, services, and knowledge have been the foundation of our success and allowed us to execute on a bigger, more comprehensive global vision that enables us to further the true principles of Bitcoin: equality, justice, and freedom.
+Our leading-edge solutions, services, and knowledge have been the foundation of our success and allowed us to execute on a bigger, more comprehensive global vision that enables us to further the true principles of Bitcoin: equality, justice, and freedom.<br>
 
 
-We strongly believe that mass acceptance of crypto is most likely to occur because of its permissionless features and its ability to create a more open and equitable world.
+We strongly believe that mass acceptance of crypto is most likely to occur because of its permissionless features and its ability to create a more open and equitable world.<br>
 
 
-Bitfinex was born at the dawn of the Bitcoin revolution, and everything we do is focused on creating simple, dependable, and accessible technology that promotes freedom.
+Bitfinex was born at the dawn of the Bitcoin revolution, and everything we do is focused on creating simple, dependable, and accessible technology that promotes freedom.<br>
 
 
-In November 2022, Bitfinex launched its [Freedom Manifesto](https://blog.bitfinex.com/announcements/the-bitfinex-freedom-manifesto/), a public statement of our guiding principles and our strategy to deliver our vision of being the leading global advocate for freedom by accelerating a transition to a more open and fair world.
+In November 2022, Bitfinex launched its [Freedom Manifesto](https://blog.bitfinex.com/announcements/the-bitfinex-freedom-manifesto/), a public statement of our guiding principles and our strategy to deliver our vision of being the leading global advocate for freedom by accelerating a transition to a more open and fair world.<br>
 
 
-We chose El Salvador to launch our manifesto as the world’s first country to adopt Bitcoin as legal tender.
+We chose El Salvador to launch our manifesto as the world’s first country to adopt Bitcoin as legal tender.<br>
 
 
-We invite everyone to read it, comment on it and support it.
+We invite everyone to read it, comment on it and support it.<br>
 
 
 
