@@ -1,6 +1,6 @@
 ---
 title: "Adrián Bernabéu"
-company: El Libro de Satoshi
+company: BITCOINISMO
 img: adrian.jpg
 ---
 
