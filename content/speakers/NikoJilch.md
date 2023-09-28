@@ -1,7 +1,7 @@
 ---
 title: "Niko Jilch"
 company: Financial Journalist
-img: nikojilch.png
+img: nikojilch1.png
 ---
 
-Niko has been working as a journalist, speaker and expert on financial markets, investing & Bitcoin for more than 10 years. His fascination is with the financial system – and how it is being revolutionized by digitization so his journalistic work has long been all about money.
+Niko Jilch is a financial journalist and speaker based in Vienna, Austria. He's focusing on the digitalization of money, the future of the financial system - and, of course, Bitcoin. Niko runs one of the most popular podcasts and YouTube channels on the topic of Bitcoin in the German speaking world ("Was Bitcoin bring"t). His English newsletter is called "Fix the money". Niko advises companies and organizations on the topic of Bitcoin and is a sought-after speaker at conferences in Europe and internationally.
