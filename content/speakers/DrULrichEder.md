@@ -1,6 +1,6 @@
 ---
 title: "Dr. Ulrich Eder"
-company: PUGNATARIUS
+company: PUGNATORIUS
 img: ulrich.jpg
 ---
 
