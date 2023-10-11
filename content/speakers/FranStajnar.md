@@ -1,5 +1,5 @@
 ---
-title: "Fran Stajnar"
+title: "Fran Strajnar"
 company: Volcan Capital
 img: fran.jpg
 ---
