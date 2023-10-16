@@ -2,7 +2,7 @@
 title: Fedi
 url: https://www.fedi.xyz/
 img: sponsorfedi.png
-row: 2
+row: 3
 caption: Empower communities everywhere
 ---
 
