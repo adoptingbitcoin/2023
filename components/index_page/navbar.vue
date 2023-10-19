@@ -50,7 +50,7 @@
                         <nuxt-link to="/#partners" v-on:click="menuOpen = false">partners</nuxt-link>
                         <nuxt-link to="/#team" v-on:click="menuOpen = false">team</nuxt-link>
 
-                        <nuxt-link to="https://www.bitcoinerevents.com/bitcoin-month/" target="_blank">Bitcoin Month
+                        <nuxt-link to="https://talks.adoptingbitcoin.org/adopting-bitcoin-2023/schedule/" target="_blank">Schedule
                         </nuxt-link>
                         <nuxt-link to="https://docs.google.com/forms/d/e/1FAIpQLSdWGxJCVb_fKajIlBFxGXdWpRGjxHlSQ1sSw4LGIpW5kLHGBQ/viewform" target="_blank">Legends of Lightning
                         </nuxt-link>
