@@ -1,6 +1,6 @@
 ---
-title: "DJ Valerie B"
-company: Bitcoin for Peace
+title: "DJ Valerie B LOVE"
+company: Bitcoin for Peace Podcast
 img: valerie.png
 ---
 
