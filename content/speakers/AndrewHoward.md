@@ -1,9 +1,7 @@
 ---
 title: "Andrew Howard"
-company: Bitcoin Reserve
+company: Bitcoin Network SMA
 img: andrewhoward.png
 ---
 
-Andrew Howard is the CBDO at Bitcoin Reserve, a bitcoin-only brokerage helping everyday investors, high-net-worth individuals and companies buy bitcoin and stablecoins worldwide. He is currently striving to make San Miguel de Allende the bitcoin hub of Mexico. Andrew also co-authored the booklet "Bitcoin: Everything in 21 pages", hosts the Bitcoin Reserve Podcast, is an Ambassador at Free Cities Foundation, and is a bitcoin consultant for family offices at andsimple.co.   
-
-Twitter: https://twitter.com/Andrew_J_Howard
+Andrew Howard first got involved with bitcoin in 2017 while "serving" active duty in the US Marine Corps. Since then, his mission in life has been to spread bitcoin adoption and create a more peaceful world. He started Bitcoin Network SMA, co-authored the booklet "Bitcoin: Everything in 21 pages", is an Ambassador at Free Cities Foundation, and is a bitcoin consultant for family offices at andsimple.co. Andrew is currently striving to make San Miguel de Allende the bitcoin hub of Mexico. 
