@@ -1,7 +1,7 @@
 ---
 title: "Chris Hunter"
-company: Lightning Ventures
-img: chrishunter.png
+company: Satoshi
+img: hunter.jpg
 ---
 
-Chris Hunter is Co-Founder of Galoy and Blink, and co-organizer of Adopting Bitcoin. He is an active investor (Angel, Seed and Series A rounds) in the Bitcoin, fintech, psychedelic and renewable energy sectors. Prior to founding Galoy, he served as a Global executive who founded, led and successfully exited venture-backed companies in New York, Los Angeles, San Diego, Denver and Vancouver.
+Chris Hunter, a seasoned entrepreneur and mechanical engineer, has co-founded several successful companies, including Satoshi and Galoy, and played a pivotal role in Bitcoin's growth. With a decade in the industry, he has invested in over 30 Bitcoin startups, co-created the Adopting Bitcoin Lightning Summit, and serves as a Venture Partner at Lightning Ventures and advisor across numerous ventures.
