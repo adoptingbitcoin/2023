@@ -1,0 +1,7 @@
+---
+title: "Matias Goldenhorn"
+company: Athena Bitcoin Global
+img: matias.jpg
+---
+
+As the CEO of Athena Bitcoin Global, Matias Goldenhörn has been integral in aligning the company with its mission of building open financial systems for the global community. Under his leadership, the company has significantly simplified Bitcoin access through its expansive fleet of ATMs, facilitating secure cryptocurrency transactions within 90 seconds. Additionally, the launch of Athena Plus has marked Athena Bitcoin's foray into providing personalized over-the-counter (OTC) trading services for digital assets, broadening the spectrum of financial solutions offered to individuals and institutions. Venturing beyond North and South America, Athena Bitcoin, under Matias’s guidance, has initiated a pioneering real estate project in El Salvador, enabling property purchases with Bitcoin. This venture, along with the company’s broader expansion into markets like Argentina, underscores Athena Bitcoin’s commitment to fostering cryptocurrency adoption and financial inclusion globally. Matias's strategic foresight, coupled with the innovative solutions crafted by the Athena Bitcoin team, continues to position the company as a notable player in the cryptocurrency landscape, driving the industry towards more practical and inclusive financial systems.
