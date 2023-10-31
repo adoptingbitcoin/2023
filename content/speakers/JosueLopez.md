@@ -1,0 +1,7 @@
+---
+title: "Josué López"
+company: Volcano Energy
+img: lopez.jpg
+---
+
+Josué is an experienced investment manager who focuses on creating Private Equity opportunities within emerging markets, particularly in the field of disruptive technologies. Through his companies, partners, and affiliates, he has invested capital in multiple developing economies, including the development of large-scale renewable energy projects like solar, hydro, and geothermal plants. Additionally, he's been instrumental in establishing the largest Bitcoin mining operation in Latin America. As the leader of three investment entities, he has actively encouraged foreign direct investment (FDI) in El Salvador, and he's played a crucial role in building sustainable financial infrastructure that has benefited a significant portion of the population. Josué has made meaningful contributions through two non-profit organizations by providing education in various emerging economies, covering subjects ranging from music to finance. He is committed to continuing his career in a way that positively impacts El Salvador and its people. As CEO of Volcano Energy, he leads strategic decision-making, oversees daily operations, sets corporate vision, manages resources, and represents the company, driving its overall success and growth.
