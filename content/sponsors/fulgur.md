@@ -1,7 +1,7 @@
 ---
 title: Fulgur Ventures
 url: https://fulgur.ventures/
-img: sponsorfulgur1.png
+img: sponsorfulgur2.png
 row: 4
 caption: Investing in early stage Lightning startups
 ---
