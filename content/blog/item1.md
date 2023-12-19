@@ -1,5 +1,5 @@
 ---
-url: https://adoptingbitcoinarnhem.com/
-description: Adopting Bitcoin Arnhem Bitcoin City, the Netherlands
-img: arnhem.jpg
+url: https://adoptingbitcoin.org/capetown-2024/
+description: Adopting Bitcoin Cape Town 2024
+img: item2.png
 ---
